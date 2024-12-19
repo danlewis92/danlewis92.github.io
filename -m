@@ -1,0 +1,23 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	new file:   about.qmd
+#
+# Untracked files:
+#	.DS_Store
+#	.gitignore
+#	.nojekyll
+#	_quarto.yml
+#	_site/
+#	index.qmd
+#	posts/
+#	prof23.jpeg
+#	profile.jpg
+#	styles.css
+#	~/
+#
