@@ -1,0 +1,29 @@
+---
+title: "About"
+image: prof23.jpeg
+about:
+  template: jolla 
+  links:
+    - icon: github
+      text: GitHub 
+      href: https://github.com/danlewis92
+    - icon: linkedin
+      text: LinkedIn 
+      href: https://www.linkedin.com/in/daniel-lewis-1440/
+    - icon: twitter
+      text: the social network formerly known as twitter
+      href: https://x.com/DanLewis3264
+# (additional links excluded for brevity)
+---
+## What's the intention here? 
+
+Since August 2024, I've been navigating the transition from PhD studies in Number Theory to an industry role in Machine Learning. I'd read plenty of accounts of making the same leap in AMS journals, and talked to friends who had similarly moved from academic studies to private-sector roles, but I don't think anything quite prepares you for making the leap for yourself!
+
+My intention in this blog is to highlight the resources that I've found most useful, so that readers can be aware of them from the getgo, and hopefully be more efficient in their ML studies and job search. I might throw in one or two more personal asides as well, who knows...
+
+The intended readership is graduate students in STEM subjects considering a career in data science, outside academia. My academic studies were in number theory, but I suspect the experience is common for STEM graduates (particularly if like me you didn't do a great deal of work with data in your studies).  
+
+If anything I've written piques your interest, please feel free to drop me a message via social media (links in the bar at the bottom of the page).
+
+Let's get cracking!
+
