@@ -1,0 +1,11 @@
+---
+title: "Welcome To NT2ML"
+author: "Dan Lewis"
+date: "2024-12-19"
+categories: [news]
+---
+
+Welcome to my new blog, created with Quarto. This post is merely a test run, but if you've ventured this far you should definitely check out "So, what have you been up to, Dan?"
+
+![](image.jpg)
+

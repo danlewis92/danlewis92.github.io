@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: ~/Documents/quarto/docs/
+
+website:
+  title: "Number theory -> Machine Learning"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/danlewis92
+      - icon: linkedin
+        href: https://linkedin.com/in/daniel-lewis-1440
+      - icon: twitter
+        href: https://x.com/DanLewis3264
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+
+
