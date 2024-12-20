@@ -1,7 +1,7 @@
 ---
 title: "So, what have you been up to, Dan?"
 author: "Dan Lewis"
-date: "2024-12-19"
+date: "2024-12-20"
 categories: [news, code, Deep Learning, GANs, fast.ai, SQL]
 image: "thumbnail.jpg"
 #date-modified: "2024-12-13"
